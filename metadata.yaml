@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35204
     wikipedia: http://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%AC%CE%BD%CE%B7%CF%82_%CE%92%CE%B7%CE%BB%CE%B1%CF%81%CE%AC%CF%82
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/31404#-----
 gutenberg_issued: '2010-02-25'
 gutenberg_type: Text
 identifiers:
